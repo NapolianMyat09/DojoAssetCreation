@@ -1,0 +1,10 @@
+# Unity Ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Bb]uild/
+*.log
+*.suo
+*.user
+PlayerDataCache/
